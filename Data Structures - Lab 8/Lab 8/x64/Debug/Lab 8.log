@@ -1,0 +1,27 @@
+﻿  Lab 8.cpp
+C:\Fall Semester 2023\Data Structures\Labs\Lab 8\Lab 8\List.h(156,26): warning C4101: 't': unreferenced local variable
+C:\Fall Semester 2023\Data Structures\Labs\Lab 8\Lab 8\List.h(131,1): message : while compiling class template member function 'T List<T>::SeeAt(int)'
+          with
+          [
+              T=item
+          ]
+C:\Fall Semester 2023\Data Structures\Labs\Lab 8\Lab 8\Lab 8.cpp(115,23): message : see reference to function template instantiation 'T List<T>::SeeAt(int)' being compiled
+          with
+          [
+              T=item
+          ]
+C:\Fall Semester 2023\Data Structures\Labs\Lab 8\Lab 8\Lab 8.cpp(10,37): message : see reference to class template instantiation 'List<item>' being compiled
+C:\Fall Semester 2023\Data Structures\Labs\Lab 8\Lab 8\List.h(91,28): warning C4101: 't': unreferenced local variable
+C:\Fall Semester 2023\Data Structures\Labs\Lab 8\Lab 8\List.h(63,1): message : while compiling class template member function 'T List<T>::GetItem(int)'
+          with
+          [
+              T=item
+          ]
+C:\Fall Semester 2023\Data Structures\Labs\Lab 8\Lab 8\Lab 8.cpp(65,23): message : see reference to function template instantiation 'T List<T>::GetItem(int)' being compiled
+          with
+          [
+              T=item
+          ]
+C:\Fall Semester 2023\Data Structures\Labs\Lab 8\Lab 8\List.h(95): warning C4715: 'List<item>::GetItem': not all control paths return a value
+C:\Fall Semester 2023\Data Structures\Labs\Lab 8\Lab 8\List.h(161): warning C4715: 'List<item>::SeeAt': not all control paths return a value
+  Lab 8.vcxproj -> C:\Fall Semester 2023\Data Structures\Labs\Lab 8\x64\Debug\Lab 8.exe
